@@ -95,7 +95,7 @@ async def filter_messages(message: Message):
     # Создаем клиента OpenAI
     client = OpenAI(
         base_url="https://api.langdock.com/openai/eu/v1",
-        api_key="sk-1vYLsu7vZ575RZN2FQOA5oPKCSv1GgLREdaCxzmNt3F5jwl0D-tjN_anmP12BLNCwhF-vEQzXeeji6FZSjNiCg"
+        api_key="sk-Jfq-pXquKVKPG0qmmAP-UAN2pt9nSj5lVQwcKAbBbnpp0Hc5R-ZY3TvvR19-SaS57uEjoi0zO0haUCTscbQ5_w"
         # ПОМЕНЯЙТЕ ТОКЕН ИИ НА ВАШ
     )
 
